@@ -1,4 +1,4 @@
-# alfatech
+# alfatech : IOT Solution by Ahmad Zaini, Luthfi, Fadlan, Annisya
 IOT Solution by Ahmad Zaini, Luthfi Alhadi, Fadlan Maarif, Annisya Fitri
 Firmware IOT Alfatech :
 1. Smart LED Bulb
